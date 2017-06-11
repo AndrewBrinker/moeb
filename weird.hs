@@ -15,7 +15,7 @@ fix = moeb id
 
 -- The next case I've so far gotten to work (not sure if there's a constructive
 -- procedure for successive specializations of `moeb`, but I think there might
--- be. If there is, there may be a case between `fix` and `loeb`.
+-- be). If there is, there may be a case between `fix` and `loeb`.
 --
 -- For reference, the type of fmap is:
 --     fmap :: Functor f => (a -> b) -> f a -> f b
